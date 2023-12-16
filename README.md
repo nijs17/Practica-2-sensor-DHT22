@@ -44,5 +44,5 @@ void loop() {
     3. Colocar la temperatura y humedad dando doble click al sensor DHT11
 ## RESUSLTADOS
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-![]()
+![](https://github.com/nijs17/Practica-2-sensor-DHT22/blob/main/DAT.png)
 
